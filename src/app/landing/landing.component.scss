@@ -1,0 +1,86 @@
+@import "~bootstrap/dist/css/bootstrap.css";
+
+.top-bar{
+    background-color: #e9edf0;
+    margin: 0%;
+    padding: 0%;
+}
+
+.top-bar-img{
+    height: 40px;
+    width: 40px;
+}
+
+
+.top-bar-img-contact{
+    height: 20px;
+    width: 20px;
+}
+
+.disp-img{
+    height: 912;
+    width: 1368; 
+}
+
+.text-align-right{
+    text-align: right;
+}
+
+.text-align-center-and-justify{
+    text-align: center;
+}
+
+.text-align-center{
+    text-align: center;
+}
+
+.body-font{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container_old{
+    width: 1368;
+    height: 300px;
+    position: relative;
+    margin-left: 0px;
+    margin-top: 0px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+.box_old{
+    width: 100%;
+    height: 100%;            
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0.8;  
+}
+.stack-top_old{
+    z-index: 9;
+    margin: 100px; 
+    margin-top: 450px;
+}
+
+.container{
+    width: 1368;
+    height: 400px;
+    position: relative;
+    margin: 20px;
+}
+.box{
+    width: 100%;
+    height: 100%;            
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0.8;  
+}
+.stack-top{
+    z-index: 20;
+    margin: 100px; 
+    margin-top: 150px;
+}
+
+.background-teal{
+    background-color:#66d0cc; 
+}
